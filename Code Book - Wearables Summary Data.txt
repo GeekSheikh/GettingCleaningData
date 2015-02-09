@@ -1,0 +1,16 @@
+Code Book - Wearables Summary Data
+
+My objective in this course is to understand how to manipulate and summarize data using R. I do not understand the data or the science behind the data well enough to make assumptions as to what the underlying findings may be and don't care to spend my time learning about this data set at the moment. 
+
+With that said, all variables containing the following character strings were acquired and averaged for each subject for each activity they performed.
+
+mean()
+mean
+std()
+
+More information can be acquired about the data at the following location.
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Data Source = https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+Summary completed by ~ srfnmnk
